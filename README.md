@@ -29,7 +29,7 @@ Option 1
 - Clone this repository
 
 ```powershell
-git clone https://github.com/<your-username>/Windows-Theme-Toggle.git
+git clone https://github.com/michellevit/Theme-Toggle.git
 cd Windows-Theme-Toggle
 ```
 
