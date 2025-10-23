@@ -52,7 +52,7 @@ You can quickly make a desktop shortcut with the included install.bat script:
   - Point the shortcut to your toggle-theme.bat script
 
 You’ll see a confirmation message when complete.
-Now you have a clickable light-bulb icon that toggles between Light and Dark mode instantly.
+Now you have a clickable light-bulb desktop icon that toggles between Light and Dark mode instantly.
 
 💡 Note: If you prefer to make the shortcut manually, right-click toggle-theme.bat → Send to → Desktop (create shortcut) → right-click the new shortcut → Properties → Change Icon… → Browse → select bulb.ico.
 
