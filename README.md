@@ -30,7 +30,6 @@ Option 1
 
 ```powershell
 git clone https://github.com/michellevit/Theme-Toggle.git
-cd Windows-Theme-Toggle
 ```
 
 Option 2
