@@ -9,8 +9,8 @@ A lightweight Windows batch script that instantly toggles between Light and Dark
 
 - [Requirements](#requirements)
 - [Getting Started](#getting-started)
-  - [Install](#install)
-  - [Create Shortcut Icon](#create-shortcut-icon)
+  - [Install](#installation)
+  - [Create Shortcut Icon](#creating-the-shortcut-icon)
   - [Usage](#usage)
 - [License](#license)
 
@@ -22,7 +22,7 @@ A lightweight Windows batch script that instantly toggles between Light and Dark
 
 ## Getting Started
 
-### Install
+### Installation
 
 Option 1
 
@@ -34,10 +34,10 @@ git clone https://github.com/michellevit/Theme-Toggle.git
 
 Option 2
 
-- Click the 'Code' button on the repo page → Download ZIP
+- Click the 'Code' button on this repo page → Download ZIP
 - Extract the ZIP anywhere (e.g., Desktop or Documents folder)
 
-### Create Shortcut Icon
+### Creating the Shortcut Icon
 
 You can quickly make a desktop shortcut with the included install.bat script:
 
